@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Krisenh's github stats](https://github-readme-stats.vercel.app/api?username=3lVv0w?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Krisenh's github stats](https://github-readme-stats.vercel.app/api?username=3lVv0w&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Embededed Electronics, Mobile Development (Android, Flutter), Backend Development and Infras.
 - 🌱 I’m currently learning Artificial Intelligent, Machine Learning and Data Engineer.
