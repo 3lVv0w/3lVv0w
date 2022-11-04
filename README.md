@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Embededed Electronics, Mobile Development (Android, Flutter), Backend Development and Infras.
 - 🌱 I’m currently learning Artificial Intelligent, Machine Learning and Data Engineer.
-- 👯 I’m looking to collaborate on Mobile Development (Android, Flutter), Embededed Electronics.
+- 👯 I’m looking to collaborate on Mobile Development (Android, Flutter, iOS), Embededed Electronics.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Mobile Development (Android, Flutter)
+- 💬 Ask me about Mobile Development (Android, Flutter, iOS)
 - 📫 How to reach me: Krseisenh@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
